@@ -13,6 +13,20 @@
         "neofetch.ash",
         "neofetch.bin"
       ]
+    },
+    {
+      "name": "btop",
+      "version": "1.0.0",
+      "description": "Modern and colorful terminal resource monitor for CPU, memory, disks and processes",
+      "author": "Ashesh",
+      "architecture": "xtensa-esp32s3",
+      "license": "Apache-2.0",
+      "bin": "btop.ash",
+      "files": [
+        "metadata.json",
+        "btop.ash",
+        "btop.bin"
+      ]
     }
   ]
 }
