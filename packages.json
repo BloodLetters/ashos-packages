@@ -1,0 +1,18 @@
+{
+  "packages": [
+    {
+      "name": "neofetch",
+      "version": "1.0.0",
+      "description": "Fast, highly customizable system information tool",
+      "author": "Ashesh",
+      "architecture": "xtensa-esp32s3",
+      "license": "MIT",
+      "bin": "neofetch.ash",
+      "files": [
+        "metadata.json",
+        "neofetch.ash",
+        "neofetch.bin"
+      ]
+    }
+  ]
+}
